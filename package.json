@@ -1,0 +1,23 @@
+{
+  "name": "hasanul-muslim",
+  "version": "1.0.0",
+  "description": "موقع حصن المسلم - أدعية وأذكار إسلامية شاملة",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000"
+  },
+  "keywords": [
+    "دعاء",
+    "أذكار",
+    "حصن المسلم",
+    "إسلام",
+    "أدعية"
+  ],
+  "author": "omemanmohamed91",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omemanmohamed91-a11y/hasanul-muslim.git"
+  }
+}
